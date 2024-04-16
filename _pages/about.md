@@ -11,4 +11,4 @@ I'm a third year student from [Jilin University](https://www.jlu.edu.cn/) majori
 
 I am working with Associate Professor [Rui Ma](https://ruim-jlu.github.io/) focusing on 3D reconstruction,in my third year of study at Jilin University.
 
-
+You can find my CV here:[Hongyuan Chen's CV](../assets/CV.pdf)
