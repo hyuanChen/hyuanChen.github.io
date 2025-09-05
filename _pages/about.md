@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year student from [Jilin University](https://www.jlu.edu.cn/) majoring in computer science as a member of Tang Ao-qing Honors Program. My research interest lies in 3D vision.
+I am a first-year Ph.D. student at Westlake University. My research focuses on representation learning at the intersection of 2D and 3D vision.
 
-I am working with Associate Professor [Rui Ma](https://ruim-jlu.github.io/) focusing on 3D reconstruction, in my third year of study at Jilin University.
-
-You can find my CV here: [Hongyuan Chen's CV](../assets/CV.pdf)
+I am working with Assistant Professor [Anpei Chen](https://apchenstu.github.io/).
